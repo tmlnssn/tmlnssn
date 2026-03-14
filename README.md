@@ -1,45 +1,47 @@
-# Hi, I'm Tim 👋
+<p align="center">
 
-Interactive Media student at Fontys ICT in Eindhoven.  
-Interested in creative technology, interactive experiences and the intersection between design and code.
+![Hi I'm Tim](https://img.shields.io/badge/Hi%20I'm%20Tim-000000?style=for-the-badge)
 
-## 🎓 Background
-- HBO-ICT – Fontys Hogeschool Eindhoven  
-- Track: Media / Interactive Media
-- Focus on research through design and experimentation
+Interactive Media student @ Fontys ICT  
+Creative Coding • p5.js • Interactive Experiences • Virtual Production
 
-## 🚀 Interests
-- Creative coding (p5.js)
-- Interactive installations
-- Generative visuals
-- Virtual Production
-- Real-time environments
-
-## 🧪 Current experiments
-At the moment I'm exploring small creative coding experiments with **p5.js**, focusing on:
-
-- motion and interaction
-- webcam input
-- visual feedback and generative visuals
-
-These experiments are part of my ongoing learning process and semester projects.
-
-## 🛠 Tools & technologies
-- JavaScript
-- HTML / CSS
-- p5.js
-- Figma
-- Git & GitHub
-
-## 📂 Projects
-Some of the things I'm currently working on include:
-
-- p5.js interaction experiments  
-- interactive concepts for events and installations  
-- explorations in Virtual Production workflows  
-
-More projects will appear here as I continue experimenting and building.
+</p>
 
 ---
 
-⭐ Always curious about the intersection of **design, technology and interaction**.
+![About Me](https://img.shields.io/badge/About%20Me-000000?style=for-the-badge)
+
+I enjoy exploring the intersection between **design, technology and interaction**.  
+My work often combines creative coding, visual design and experimentation.
+
+---
+
+![Current Focus](https://img.shields.io/badge/Current%20Focus-000000?style=for-the-badge)
+
+- Creative coding with **p5.js**
+- Interactive visuals and generative graphics
+- Webcam based interaction
+- Exploring Virtual Production workflows
+
+---
+
+![Tools and Technologies](https://img.shields.io/badge/Tools%20and%20Technologies-000000?style=for-the-badge)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-E5E5E5?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-D6D6D6?style=for-the-badge&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-C7C7C7?style=for-the-badge&logo=css3&logoColor=black)
+![p5.js](https://img.shields.io/badge/p5.js-B8B8B8?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-A9A9A9?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-9A9A9A?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8B8B8B?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+![Projects](https://img.shields.io/badge/Projects%20and%20Experiments-000000?style=for-the-badge)
+
+Some things I'm currently exploring:
+
+- p5.js interaction experiments  
+- interactive concepts for installations and events  
+- generative visuals and creative coding  
+- explorations in Virtual Production
